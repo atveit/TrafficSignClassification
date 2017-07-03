@@ -114,8 +114,6 @@ Here are five German traffic signs that I found on the web:
 
 In the first pick of images I didn't check that the signs actually were among the the 43 classes the model was built for, and that was actually not the case, i.e. making it impossible to classify correctly. But got interesting results (regarding finding similar signs) for the wrongly classified ones, so replaced only 2 of them with sign images that actually was covered in the model, i.e. making it still impossible to classify 3 of them.
 
-####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compasare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
-
 Here are the results of the prediction:
 
 | Image			        |     Prediction	        					| 
