@@ -16,11 +16,6 @@ The goals / steps of this project are the following:
 [image1]: ./signdistribution.png "Traffic Sign Distribution (Train, Validation, Test)"
 [image2]: ./signsamples.png "Sample Traffic Signs from Training Data"
 [image3]: ./signpredictions.png "5 traffic signs downloaded from Internet"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 ---
 ###Writeup / README
