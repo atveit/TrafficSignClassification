@@ -128,4 +128,43 @@ Here are the results of the prediction:
 The model was able to correctly guess 2 of the 5 traffic signs, which gives an accuracy of 40%. For the other ones it can`t classify correctly, but the 2nd prediction for sign 3 - "adult and child on road" - is interesting since it suggests "Go straight or right" - which is quite visually similar (if you blur the innermost of each sign you will get almost the same image).
 
 
+| Image:img1.png             | Prediction         |
+|:------------:|:------------:|
+|1.00|Priority road|
+|0.00|General caution|
+|0.00|No entry|
+|0.00|Stop|
+|0.00|Bicycles crossing|
+
+| Image:img2.png             | Prediction         |
+|:------------:|:------------:|
+|0.86|Right-of-way at the next intersection|
+|0.08|Speed limit (30km/h)|
+|0.04|Children crossing|
+|0.01|Speed limit (20km/h)|
+|0.01|Speed limit (50km/h)|
+
+| Image:img3.png             | Prediction         |
+|:------------:|:------------:|
+|1.00|Keep right|
+|0.00|Turn left ahead|
+|0.00|Go straight or right|
+|0.00|Roundabout mandatory|
+|0.00|Ahead only|
+
+| Image:img4.png             | Prediction         |
+|:------------:|:------------:|
+|0.80|Beware of ice/snow|
+|0.19|Right-of-way at the next intersection|
+|0.01|Children crossing|
+|0.00|Road narrows on the right|
+|0.00|Double curve|
+
+| Image:img5.png             | Prediction         |
+|:------------:|:------------:|
+|0.99|Speed limit (60km/h)|
+|0.01|Speed limit (80km/h)|
+|0.00|Speed limit (100km/h)|
+|0.00|Speed limit (30km/h)|
+|0.00|Speed limit (50km/h)|
 
